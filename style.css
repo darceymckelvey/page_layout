@@ -1,0 +1,85 @@
+/*.block {
+/*	display: block;
+	color: red;
+}
+
+.inline {
+	color: green;
+	display: inline;
+}
+
+.inline-block {
+	display: inline-block;
+	color: purple;
+	width: 600px;
+	height: 300px;
+	background: #e1e1e1;
+}
+
+h1 {
+	position: absolute;
+	bottom: 0px;
+	left: 20px;
+}
+
+div.relative {
+	position: relative;
+	width: 800px;
+	height: 500px;
+	background: red;
+}
+
+div.adsolute {
+	position: absolute;
+	right: 10px;
+	bottom: 10px;
+	height: 200px;
+	width: 100px;
+	border: 2px solid black;
+}*/
+
+/* grid layout css  */
+/*.grid-container {
+	display: grid;
+	grid-template-columns: auto auto auto;
+}
+
+.grid-item {
+	background: #e1e1e1;
+	border: 1px solid black;
+	text-align: center;
+	padding: 5px 0;
+}*/
+
+/* flex layout css  */
+/*.flex-container {
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row-reverse;
+}
+
+.flex-item {
+	background: grey;
+	border: 1px solid black;
+	padding: 5px 145px;
+}*/
+
+/*.header {
+	height: auto;
+	font-size: 5vw;
+}
+
+.para {
+	font-size: 3vw;
+}
+
+.bird-img {
+	width: 50vw;
+	height: 50vh;
+	margin: 25vw;
+}*/
+
+
+.input-group {
+	width: 30%;
+}
